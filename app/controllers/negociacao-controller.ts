@@ -20,6 +20,7 @@ export class NegociacaoController {
 
         console.log(negociacao);
     }
+    
 
     criaNegociacao(): Negociacao {
 
